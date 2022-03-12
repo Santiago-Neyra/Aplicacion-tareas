@@ -1,0 +1,96 @@
+[
+    {
+        "numero":0,
+        "titulo":"Leer 3 libros",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":false,
+        "importancia":3,
+        "fecha":"05/02/23"
+
+
+    },
+    {
+        "numero":1,
+        "titulo":"Salir de fiesta",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).s",
+        "realizada":true,
+        "importancia":4,
+        "fecha":"05/02/23"
+
+
+    },
+    {
+        "numero":2,
+        "titulo":"Sacar al menos 3 materias",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA). ",
+        "realizada":true,
+        "importancia":1,
+        "fecha":"05/02/23"
+
+
+    },
+    {
+        "numero":3,
+        "titulo":"Comer saludable",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":false,
+        "importancia":2,
+        "fecha":"05/02/23"
+
+
+    },
+    {
+        "numero":84,
+        "titulo":"Entrenar",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":false,
+        "importancia":5,
+        "fecha":"05/02/23"
+
+
+    },
+    {
+        "numero":80,
+        "titulo":"Entrenar",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":true,
+        "importancia":5,
+        "fecha":"05/02/23"
+
+
+    }
+    ,
+    {
+        "numero":6,
+        "titulo":"Entrenar",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":false,
+        "importancia":4,
+        "fecha":"05/02/23"
+
+
+    }
+    ,
+    {
+        "numero":24,
+        "titulo":"Entrenar",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":true,
+        "importancia":1,
+        "fecha":"05/02/23"
+
+
+    }
+    ,
+    {
+        "numero":18,
+        "titulo":"Entrenar",
+        "descripcion":"Tareas es una aplicación para el Sistema de gestión de aprendizaje (SGA).",
+        "realizada":false,
+        "importancia":2,
+        "fecha":"05/02/23"
+
+
+    }
+    
+]

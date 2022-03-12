@@ -1,0 +1,13 @@
+.titulo{
+   
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.cabezal{
+    margin-bottom: 20px;
+    height: 20vh;
+    display: flex;
+   justify-content: center;
+    flex-direction: column;
+    
+}

@@ -1,0 +1,85 @@
+.x{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 10px;
+    padding-right: 10px;    
+    margin: 0;
+    
+}
+.x p{
+    
+    border: 1px solid rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    
+    
+
+}
+.carta{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 5px 5px 5px;
+    
+}
+.buton{
+    width: auto;
+    margin: auto;
+    
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    border: solid 1px white;
+
+}
+.buton:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.descripcion-tarea{
+    color:white;
+    font-size: 16px;
+
+}
+.titulo-tarea{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.orden-tarea{
+    color: white;
+    font-size: 20px;
+    
+
+    border-radius: 10px;
+    width: auto;
+    margin-bottom: 10px;
+}
+.spannumero{
+    font-size: 1.5rem;
+    
+    padding: 5px;
+    border-radius: 20px;
+}
+.remover{
+    border: none;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    background-color: transparent;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+}
+.fecha{
+    color: white;
+    font-size: 0.9rem;
+}
